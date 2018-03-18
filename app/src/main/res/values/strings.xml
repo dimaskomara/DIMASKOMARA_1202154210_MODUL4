@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">DIMAS KOMARA_1202154210_MODUL4</string>
+    <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+
+    <string name="cari_gambar">Cari Gambar</string>
+
+    <string name="mulai_asynctask">Mulai AsyncTask</string>
+
+    <string name="masukkan_url_gambar">Masukkan URL Gambar</string>
+
+    <string name="klik_mencari_gambar">Klik untuk mencari gambar</string>
+
+    <string name="link_gambar">https://i.pinimg.com/originals/54/a7/ba/54a7ba0a0d744fd59df0a8eb759432d4.png</string>
+
+    <!-- buat array -->
+
+    <string-array name="names">
+
+        <item>Untung</item>
+
+        <item>Kardi</item>
+
+        <item>Bejo</item>
+
+        <item>Sutaryo</item>
+
+        <item>Bagyo</item>
+
+        <item>Sukajan</item>
+
+        <item>Parjo</item>
+
+        <item>Sukardi</item>
+
+        <item>Karyo</item>
+
+        <item>Waluyo</item>
+        <item>DimasAryo</item>
+
+    </string-array>
+</resources>
